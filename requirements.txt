@@ -1,0 +1,7 @@
+requests
+bs4
+colorama
+termcolor
+clipboard
+idm
+wget
